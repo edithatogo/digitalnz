@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: Please cite the upstream release using the preferred-citation metadata. If
+  you use this fork, also identify its repository and the commit or release used.
+title: DigitalNZ
+authors:
+- family-names: Sherratt
+  given-names: Tim
+  orcid: https://orcid.org/0000-0001-7956-4498
+repository-code: https://github.com/edithatogo/digitalnz
+url: https://github.com/edithatogo/digitalnz
+references:
+- type: software
+  title: DigitalNZ
+  authors:
+  - family-names: Sherratt
+    given-names: Tim
+    orcid: https://orcid.org/0000-0001-7956-4498
+  repository-code: https://github.com/GLAM-Workbench/digitalnz
+  url: https://github.com/GLAM-Workbench/digitalnz
+preferred-citation:
+  type: software
+  title: GLAM-Workbench/digitalnz
+  authors:
+  - family-names: Sherratt
+    given-names: Tim
+    orcid: https://orcid.org/0000-0001-7956-4498
+  version: v1.0.0
+  date-released: '2021-11-17'
+  doi: 10.5281/zenodo.5709012
+  url: https://zenodo.org/records/5709012
+  repository-code: https://github.com/GLAM-Workbench/digitalnz
